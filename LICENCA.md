@@ -1,0 +1,1 @@
+Este projeto está licenciado sob a Licença DIO. Veja o arquivo LICENSE para mais detalhes.
